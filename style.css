@@ -20,8 +20,25 @@
 
 /* Page setup */
 @page {
-    margin: 0.3cm 0.4cm;
+    margin: 0.2cm 0.4cm;
     size: A4;
+}
+
+@media screen {
+    body {
+        margin: 1cm auto;
+        padding: 0 1cm;
+        max-width: 21cm;
+        position: relative;
+    }
+}
+
+@media print {
+    body {
+        margin: 0;
+        padding: 0;
+        position: relative;
+    }
 }
 
 body {
@@ -30,16 +47,12 @@ body {
     line-height: 1.45;
     text-align: justify;
     color: var(--text-primary);
-    max-width: 100%;
-    margin: 0;
-    padding: 0;
 }
 
 /* My photo :) */
 .profile-photo {
-    position: absolute;
-    top: 0;
-    right: 0.5cm;
+    float: right;
+    margin-right: 0.5cm;
     width: 105px;
     height: 105px;
     border-radius: 50%;

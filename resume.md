@@ -1,10 +1,13 @@
 ---
-title: Pietro Businaro
+pagetitle: "Pietro Businaro"
 ---
-### MSc. in Aeronautical Engineering
 
 <!-- My photo :) -->
 <img src="me.jpg" alt="TheBusyDev in disguise :)" class="profile-photo">
+
+# Pietro Businaro
+
+### MSc. in Aeronautical Engineering
 
 <!-- My contacts -->
 <div class="contact-info">
