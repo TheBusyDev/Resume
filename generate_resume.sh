@@ -10,4 +10,6 @@ pandoc resume.md \
        --css=style.css \
        --standalone
 
+cp style.css html/style.css
+
 exit 0
