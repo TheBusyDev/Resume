@@ -3,9 +3,9 @@ pagetitle: "Pietro Businaro"
 ---
 
 <!-- My photo :) -->
-<img src="me.jpg" alt="TheBusyDev in disguise :)" class="profile-photo">
-
-# Pietro Businaro
+<img src="me.jpg" alt="Pietro Businaro" class="profile-photo">
+<div class="name">Pietro Businaro</div>
+<div class="easter-egg">...aka TheBusyDev in disguise :)</div>
 
 ### MSc. in Aeronautical Engineering
 
@@ -13,7 +13,8 @@ pagetitle: "Pietro Businaro"
 <div class="contact-info">
 [pietro.businaro@outlook.com](maito:pietro.businaro@outlook.com) •
 [LinkedIn](https://www.linkedin.com/in/pietro-businaro) •
-[GitHub](https://github.com/TheBusyDev)
+[GitHub](https://github.com/TheBusyDev) •
+[My Website](https://thebusydev.github.io/)
 </div>
 
 <!-- Introduction -->
@@ -154,9 +155,9 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 [`gmsh`](https://gmsh.info/),
 [`fenics`](https://fenicsproject.org/).
 - **Experience in:**
-  - Packaging and distributing `Python` projects with `pip`.
-  - Development of `C++` software in `Linux` environment.
-  - Managing `MPI` clusters.
+    - Packaging and distributing `Python` projects with `pip`.
+    - Development of `C++` software in `Linux` environment.
+    - Managing `MPI` clusters.
 - **Familiar with:** `C`
 - **Basic knowledge of:** `Java`
 - I use **Fedora Linux** as my daily driver!

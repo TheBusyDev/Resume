@@ -72,13 +72,25 @@ body {
     break-inside: avoid;
 }
 
-/* Header - Name */
-h1 {
+/* Name */
+.name, .easter-egg {
     font-size: 26pt;
     font-weight: 700;
     color: var(--accent-color);
     margin: 0 0 0.1em 0;
     letter-spacing: -0.5px;
+}
+
+.easter-egg {
+  display: none;
+}
+
+.profile-photo:hover ~ .easter-egg {
+  display: block;
+}
+
+.profile-photo:hover ~ .name {
+  display: none;
 }
 
 /* Subtitle (Aeronautical Engineer) */
