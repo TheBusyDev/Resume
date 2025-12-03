@@ -1,5 +1,3 @@
-# Pietro Businaro
-
 ### MSc. in Aeronautical Engineering
 
 <div class="contact-info">
@@ -9,7 +7,7 @@
 </div>
 
 <div class="intro">
-I am a graduate engineer from Politecnico di Milano (expected graduation at March 2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on **Fluid Dynamics and CFD/numerical methods**. I have experience in both **Finite Volume** and **Finite Element** simulations and coding in `C++` and `Python`. Some of my personal projects are visible at my [GitHub page](https://github.com/TheBusyDev).
+I am a graduate engineer from Politecnico di Milano (expected graduation at March 2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on **Fluid Dynamics** and **CFD/numerical methods**. I have experience in both **Finite Volume** and **Finite Element** simulations and coding in `C++` and `Python`. Some of my personal projects are visible at my [GitHub page](https://github.com/TheBusyDev).
 </div>
 
 <!-- START TWO-COLUMN LAYOUT -->
@@ -111,7 +109,7 @@ My open-source contributions are all uploaded on my [GitHub page](https://github
 ### Programming/scripting languages
 
 - **Proficient in:** `C++` (up to `C++20`), `Python`, `Bash`, `MATLAB`.
-- **Python libraries**:
+- **Python libraries:**
 [`numpy`](https://numpy.org/),
 [`pandas`](https://pandas.pydata.org/),
 [`pyvista`](https://pyvista.org/),
