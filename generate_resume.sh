@@ -1,4 +1,5 @@
 #!/bin/bash
+# Generate resume from Markdown+CSS files.
 
 pandoc resume.md \
        -o Pietro_Businaro_resume.pdf \
@@ -10,6 +11,7 @@ pandoc resume.md \
        --css=style.css \
        --standalone
 
+# Copy content into submodule
 cp style.css html/.
 cp me.jpg html/.
 
