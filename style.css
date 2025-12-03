@@ -75,6 +75,7 @@ body {
 .name, .easter-egg {
     font-size: 26pt;
     font-weight: 700;
+    text-align: left;
     color: var(--accent-color);
     margin: 0 0 0.1em 0;
     letter-spacing: -0.5px;
@@ -90,15 +91,6 @@ body {
 
 .profile-photo:hover ~ .name {
   display: none;
-}
-
-/* Subtitle (Aeronautical Engineer) */
-.subtitle {
-    font-size: 11pt;
-    color: var(--heading);
-    font-weight: bolder;
-    margin-top: 0;
-    margin-bottom: 0;
 }
 
 /* Contact info container */
@@ -131,6 +123,7 @@ body {
 h2 {
     font-size: 14pt;
     font-weight: 700;
+    text-align: left;
     color: var(--accent-color);
     border-bottom: 2px solid var(--accent-color);
     padding-bottom: 0.25em;
@@ -152,6 +145,7 @@ h2 {
 h3 {
     font-size: 12pt;
     font-weight: 700;
+    text-align: left;
     color: var(--heading);
     margin: 0 0 0.1em 0;
     line-height: 1.3;
@@ -167,9 +161,10 @@ h3 {
 
 /* Card sub-title (e.g. university) */
 .card-subtitle {
-    color: var(--accent-color);
     font-weight: 600;
     font-size: 10pt;
+    text-align: left;
+    color: var(--accent-color);
     margin: 0;
 }
 
