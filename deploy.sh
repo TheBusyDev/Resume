@@ -14,6 +14,7 @@ cd html/
   exit 1;
 }
 
+cd ..
 git add html
 git commit -m "Update git submodule"
 
