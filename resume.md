@@ -12,7 +12,7 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 <!-- My contacts -->
 <div class="contact-info">
 [pietro.businaro@outlook.com](maito:pietro.businaro@outlook.com) •
-[LinkedIn](https://www.linkedin.com/in/pietro-businaro) •
+[linkedin.com/in/pietro-businaro](https://www.linkedin.com/in/pietro-businaro) •
 [github.com/TheBusyDev](https://github.com/TheBusyDev) •
 [Website](https://thebusydev.github.io/)
 </div>
