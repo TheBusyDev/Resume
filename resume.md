@@ -116,9 +116,12 @@ Mechanics, Propulsion.
 
 A list collecting the awards I received in my academic career is presented below.
 
-- **Best Freshmen Award (by Politecnico di Milano)**
-- **progettoDiventerò Scholarship (by Bracco Foundation)**
-- **Scholarship by Legnanese Family Foundation**
+- **Best Freshmen Award by
+    [Politecnico di Milano](https://www.polimi.it/)**
+- **progettoDiventerò Scholarship by
+    [Bracco Foundation](https://www.fondazionebracco.com/)**
+- **Scholarship by
+    [Legnanese Family Foundation](https://www.fondazionefamiglialegnanese.it/)**
 
 </div>
 
@@ -149,7 +152,10 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 ### Programming Languages & Software
 
 - **Proficient in:** `C++` (up to `C++20`), `Python`, `Bash`, `MATLAB`.
-- **Python libraries:**
+- **`C++` libraries:**
+[`lifex`](https://lifex.gitlab.io/),
+[`deal.ii`](https://dealii.org/)
+- **`Python` libraries:**
 [`numpy`](https://numpy.org/),
 [`pandas`](https://pandas.pydata.org/),
 [`pyvista`](https://pyvista.org/),
