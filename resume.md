@@ -138,7 +138,7 @@ My open-source contributions are all uploaded on my [GitHub page](https://github
 
 - [**lifex:**](https://lifex.gitlab.io/) This open-source project is focused on 
 the development and validation of a software for <ins>cardiovascular applications</ins>,
-co-founded by Politecnico di Milano and European Research Council (ERC).
+co-funded by Politecnico di Milano and European Research Council (ERC).
 The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
 be employed for efficient simulations of the <ins>blood flow in arteries</ins>.
 My contributions will appear in the next release v2.1.0.
