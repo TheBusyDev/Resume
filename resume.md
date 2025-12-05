@@ -3,7 +3,7 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 ---
 
 <!-- My photo :) -->
-<input type="checkbox" id="easter-egg-checkbox">
+<input type="checkbox" id="easter-egg-checkbox" hidden>
 <label for="easter-egg-checkbox">
     <img src="me.jpg" alt="Pietro Businaro" class="profile-photo">
 </label>
