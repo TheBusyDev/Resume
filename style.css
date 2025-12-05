@@ -72,7 +72,7 @@ body {
 }
 
 /* Name */
-.name, .easter-egg {
+.name, .easter-egg-message {
     font-size: 26pt;
     font-weight: 700;
     text-align: left;
@@ -81,16 +81,22 @@ body {
     letter-spacing: -0.5px;
 }
 
-.easter-egg {
-  display: none;
+#easter-egg-checkbox {
+    display: none;
 }
 
-.profile-photo:hover ~ .easter-egg {
-  display: block;
+.easter-egg-message {
+    display: none;
 }
 
-.profile-photo:hover ~ .name {
-  display: none;
+#easter-egg-checkbox:checked ~ .easter-egg-message,
+#easter-egg-checkbox:hover ~ .easter-egg-message {
+    display: block;
+}
+
+#easter-egg-checkbox:checked ~ .name,
+#easter-egg-checkbox:hover ~ .name {
+    display: none;
 }
 
 /* Contact info container */

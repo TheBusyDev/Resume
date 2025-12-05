@@ -3,9 +3,12 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 ---
 
 <!-- My photo :) -->
-<img src="me.jpg" alt="Pietro Businaro" class="profile-photo">
+<input type="checkbox" id="easter-egg-checkbox">
+<label for="easter-egg-checkbox">
+    <img src="me.jpg" alt="Pietro Businaro" class="profile-photo">
+</label>
 <h1 class="name">Pietro Businaro</h1>
-<h1 class="easter-egg">...aka TheBusyDev in disguise :)</h1>
+<h1 class="easter-egg-message">...aka TheBusyDev in disguise :)</h1>
 
 ### MSc. in Aeronautical Engineering
 
