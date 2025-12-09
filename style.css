@@ -55,25 +55,13 @@ body {
 }
 
 /* Name */
-.name, .easter-egg-message {
+.name {
     font-size: 26pt;
     font-weight: 700;
     text-align: left;
     color: var(--accent-color);
     margin: 0 0 0.1em 0;
     letter-spacing: -0.5px;
-}
-
-.easter-egg-message {
-    display: none;
-}
-
-.photo-container:hover ~ .easter-egg-message {
-    display: block;
-}
-
-.photo-container:hover ~ .name {
-    display: none;
 }
 
 /* Contact info container */
