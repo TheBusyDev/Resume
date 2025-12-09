@@ -12,8 +12,8 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 <!-- My contacts -->
 <div class="contact-info">
 [pietro.businaro@outlook.com](maito:pietro.businaro@outlook.com) •
-[linkedin.com/in/pietro-businaro](https://www.linkedin.com/in/pietro-businaro) •
-[github.com/TheBusyDev](https://github.com/TheBusyDev) •
+[LinkedIn](https://www.linkedin.com/in/pietro-businaro) •
+[GitHub](https://github.com/TheBusyDev) •
 [Website](https://thebusydev.github.io/)
 </div>
 
@@ -32,7 +32,7 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 
 ## Education
 
-<div class="card">
+<div class="card-no-break">
 
 ### MSc. in Aeronautical Engineering
 
@@ -49,22 +49,31 @@ element methods.
 - **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en),
 [MOX Department](https://mox.polimi.it)
 - **Thesis Co-advisor:** [PhD. Michele Bucelli](https://scholar.google.com/citations?user=yGeA5wQAAAAJ&hl=it)
+- **Keywords:**
+haemodynamics,
+multiscale modeling of the cardiovascular system,
+discontinuous Galerkin methods,
+high-order methods for CFD.
 - **Description:**
 The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
 be employed for efficient simulations of the <ins>blood flow in arteries</ins>. This 1D model is also designed to interface
 with 0D *windkessel* models and 3D fluid-structure interaction
 heart models, and can be thus employed in <ins>multiscale simulations</ins>.
-This CFD software has been written in `C++17`, exploiting
-[`deal.ii`](https://dealii.org/) finite element library.
-The entire implementation has been carried out within the
+This project offered me the opportunity to investigate
+<ins>discontinuous Galerkin (DG) finite element schemes</ins> and their application,
+exploring the field of high-order methods for CFD.
+The implementation has been written in `C++17`, exploiting
+[`deal.ii`](https://dealii.org/) finite element library,
+and has been carried out within the
 [lifex project](https://lifex.gitlab.io/).
 - **Courses:** Aerodynamics, Compressible Fluid Dynamics, CFD, Turbulence modeling,
-Advanced Programming (`C++` for <ins>scientific computing</ins>), Model Order Reduction Techniques (a branch of 
+Advanced Programming (`C++` for <ins>scientific computing</ins>),
+Model Order Reduction Techniques (a branch of 
 <ins>Machine Learning</ins>), Airplane performance, Aeroelasticity.
 
 </div>
 
-<div class="card">
+<div class="card-no-break">
 
 ### BSc. in Aerospace Engineering
 
@@ -81,7 +90,7 @@ Mechanics, Propulsion.
 
 </div>
 
-<div class="card">
+<div class="card-no-break">
 
 ### Liceo Scientifico (secondary school)
 
@@ -95,11 +104,11 @@ Mechanics, Propulsion.
 
 </div>
 
-<div class="card">
+<div class="card-no-break">
 
 ### Awards & Scholarships
 
-A list collecting the awards I received in my academic career is presented below.
+A list collecting the awards I received for my academic results is presented below.
 
 - **Best Freshmen Award by
     [Politecnico di Milano](https://www.polimi.it/)**
@@ -135,15 +144,17 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 
 </div>
 
-<div class="card">
+<div class="card-no-break">
 
 ### Programming Languages & Software
 
 - **Proficient in:** `C++` (up to `C++20`), `Python`, `Bash`, `MATLAB`.
-- **`C++` libraries:**
+- **`C++` Libraries & Parallelization:**
 [`lifex`](https://lifex.gitlab.io/),
-[`deal.ii`](https://dealii.org/).
-- **`Python` libraries:**
+[`deal.ii`](https://dealii.org/),
+`MPI`,
+`OpenMP`.
+- **`Python` Libraries:**
 [`numpy`](https://numpy.org/),
 [`pandas`](https://pandas.pydata.org/),
 [`pyvista`](https://pyvista.org/),
@@ -155,14 +166,17 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
     - Packaging and distributing `Python` projects with `pip`.
     - Development of `C++` software in `Linux` environment.
     - Managing `MPI` clusters.
-- **Familiar with:** `C`
-- **Basic knowledge of:** `Java`
+- **Version Control & Collaboration:** `git`, `GitHub`, `GitLab`.
+- **Familiar with:** `C`.
+- **Mesh Generation:**
+[`ANSA`](https://www.beta-cae.com/ansa.htm),
+[`Gmsh`](https://gmsh.info/).
 
 </div>
 
 ## Experience
 
-<div class="card">
+<div class="card-no-break">
 
 ### CFD Engineer
 
@@ -192,7 +206,7 @@ issued by [BETA CAE](https://www.beta-cae.com/).
 
 ## Conferences
 
-<div class="card">
+<div class="card-no-break">
 
 ### 10<sup>th</sup> Before Reality Conference
 
@@ -215,7 +229,7 @@ with leading professionals in automotive and motorsport industry.
 
 ## Miscellaneous
 
-<div class="card">
+<div class="card-no-break">
 
 ### Language Skills
 
