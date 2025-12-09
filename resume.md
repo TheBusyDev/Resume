@@ -43,6 +43,7 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 - **Website:** [www.polimi.it](https://www.polimi.it/)
 - **Location:** Milan, MI, Italy
 - **Expected Final Grade:** 110/110
+- **Grade Average:** 29/30
 - **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp* 
 element methods.
 - **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en),
@@ -71,9 +72,10 @@ Advanced Programming (`C++` for <ins>scientific computing</ins>), Model Order Re
 <div class="card-subtitle">Politecnico di Milano</div>
 <div class="date">Sep 2020 - Sep 2023</div>
 </div>
-- **Website:** [www.polimi.it](https://www.polimi.it/) \
-- **Location:** Milan, MI, Italy \
-- **Final Grade:** 110/110 cum laude \
+- **Website:** [www.polimi.it](https://www.polimi.it/)
+- **Location:** Milan, MI, Italy
+- **Final Grade:** 110/110 cum laude
+- **Grade Average:** 29.4/30
 - **Courses:** Fundamentals of Numerical Analysis, Fluid Dynamics, Structural
 Mechanics, Propulsion.
 
