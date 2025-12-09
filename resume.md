@@ -95,12 +95,24 @@ with leading professionals in automotive and motorsport industry.
 </div>
 - **Website:** [www.polimi.it](https://www.polimi.it/)
 - **Location:** Milan, MI, Italy
+- **Expected Final Grade:** 110/110
 - **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp* 
 element methods.
-- **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en), [MOX Department](https://mox.polimi.it)
-- **Expected Final Grade:** 110/110
+- **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en),
+[MOX Department](https://mox.polimi.it)
+- **Thesis Co-advisor:** [PhD. Michele Bucelli](https://scholar.google.com/citations?user=yGeA5wQAAAAJ&hl=it),
+[MOX Department](https://mox.polimi.it)
+- **Description:**
+The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
+be employed for efficient simulations of the <ins>blood flow in arteries</ins>. This 1D model is also designed to interface
+with 0D *windkessel* models and 3D fluid-structure interaction
+heart models, and can be thus employed in <ins>multiscale simulations</ins>.
+This CFD software has been written in `C++17`, exploiting
+[`deal.ii`](https://dealii.org/) finite element library.
+The entire implementation has been carried out within the
+[lifex project](https://lifex.gitlab.io/).
 - **Courses:** Aerodynamics, Compressible Fluid Dynamics, CFD, Turbulence modeling,
-Advanced Programming, Model Order Reduction Techniques (a branch of 
+Advanced Programming (`C++` for <ins>scientific computing</ins>), Model Order Reduction Techniques (a branch of 
 <ins>Machine Learning</ins>), Airplane performance, Aeroelasticity.
 
 </div>
@@ -156,17 +168,17 @@ A list collecting the awards I received in my academic career is presented below
 
 ### Open-source Contributions
 
-My open-source contributions are all uploaded on my [GitHub page](https://github.com/TheBusyDev). The relevant contributions are presented below.
+The open-source contributions from my personal and university
+projects are all uploaded on my [GitHub page](https://github.com/TheBusyDev).
+The relevant contributions are presented below.
 
 - [**lifex:**](https://lifex.gitlab.io/)
-The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
-be employed for efficient simulations of the <ins>blood flow in arteries</ins>. This 1D model is also designed to interface
-with 0D *windkessel* models and 3D fluid-structure interaction
-heart models, and can be thus employed in <ins>multiscale simulations</ins>.
-[lifex project](https://lifex.gitlab.io/) is focused on
-the development and validation of a software for <ins>cardiovascular applications</ins>,
+This project is focused on the development of a finite
+element library for <ins>multiscale cardiovascular simulations</ins>,
 co-funded by Politecnico di Milano and European Research Council (ERC).
-My contributions will appear in the next release v2.1.0.
+The contributions from my Master's Thesis
+(see [Education](#education) section)
+will appear in the next release v2.1.0.
 - [**OpenFOAMPost:**](https://github.com/TheBusyDev/OpenFOAMPost) An excellent
 `Python` program to post-process `OpenFOAM` simulations, collecting and analyzing
 data with `pyvista`, `numpy`, `pandas` and `matplotlib`.
