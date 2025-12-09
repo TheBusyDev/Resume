@@ -30,59 +30,6 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 <!-- START CARDS CONTAINER -->
 <div class="cards-container">
 
-## Experience
-
-<div class="card">
-
-### CFD Engineer
-
-<div class="card-header">
-<div class="card-subtitle">PMF</div>
-<div class="date">Nov 2023 - Jan 2025</div>
-</div>
-- **Website:** [www.polimimotorcyclefactory.it](https://www.polimimotorcyclefactory.it/) \
-- **Location:** Milan, MI, Italy \
-- **Skills:** CFD automation, `OpenFOAM`, `Python`, `ANSA`, `ParaView`, `MPI` cluster admin.
-- **Description:** 
-I led the development of a <ins>CFD software</ins> for
-[PMF](https://www.polimimotorcyclefactory.it/),
-automating the whole CFD process, from the mesh generation 
-(with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
-(involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
-I also configured and administered an `MPI` cluster, performing CFD simulations
-on multiple nodes! \
-[PMF](https://www.polimimotorcyclefactory.it/) is a racing team from
-Politecnico di Milano that designs two racing motorcycles,
-competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
-and in Electric category at [Motostudent championship](https://www.motostudent.com/).
-- **Courses:** *Introduction to CFD pre- & post-processing with ANSA/META*,
-issued by [BETA CAE](https://www.beta-cae.com/).
-
-</div>
-
-## Conferences
-
-<div class="card">
-
-### 10<sup>th</sup> Before Reality Conference
-
-<div class="card-header">
-<div class="card-subtitle">BETA CAE</div>
-<div class="date">Jun 2025</div>
-</div>
-- **Website:** [www.beta-cae.com](https://www.beta-cae.com/conference10_announcement.htm) \
-- **Location:** Science Congress Center, Munich, Germany \
-- **Description:**
-The <ins>CFD software</ins> I led for one year at
-[PMF](https://www.polimimotorcyclefactory.it/)
-was showcased at the <ins>Before Reality Conference</ins>
-\- a major industry event hosted by [BETA CAE](https://www.beta-cae.com/),
-concerning mesh generation and CFD simulations.
-The presentation provided an opportunity to exchange technical insights
-with leading professionals in automotive and motorsport industry.
-
-</div>
-
 ## Education
 
 <div class="card">
@@ -100,8 +47,7 @@ with leading professionals in automotive and motorsport industry.
 element methods.
 - **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en),
 [MOX Department](https://mox.polimi.it)
-- **Thesis Co-advisor:** [PhD. Michele Bucelli](https://scholar.google.com/citations?user=yGeA5wQAAAAJ&hl=it),
-[MOX Department](https://mox.polimi.it)
+- **Thesis Co-advisor:** [PhD. Michele Bucelli](https://scholar.google.com/citations?user=yGeA5wQAAAAJ&hl=it)
 - **Description:**
 The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
 be employed for efficient simulations of the <ins>blood flow in arteries</ins>. This 1D model is also designed to interface
@@ -194,7 +140,7 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 - **Proficient in:** `C++` (up to `C++20`), `Python`, `Bash`, `MATLAB`.
 - **`C++` libraries:**
 [`lifex`](https://lifex.gitlab.io/),
-[`deal.ii`](https://dealii.org/)
+[`deal.ii`](https://dealii.org/).
 - **`Python` libraries:**
 [`numpy`](https://numpy.org/),
 [`pandas`](https://pandas.pydata.org/),
@@ -209,7 +155,59 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
     - Managing `MPI` clusters.
 - **Familiar with:** `C`
 - **Basic knowledge of:** `Java`
-- I use **Fedora Linux** as my daily driver!
+
+</div>
+
+## Experience
+
+<div class="card">
+
+### CFD Engineer
+
+<div class="card-header">
+<div class="card-subtitle">PMF</div>
+<div class="date">Nov 2023 - Jan 2025</div>
+</div>
+- **Website:** [www.polimimotorcyclefactory.it](https://www.polimimotorcyclefactory.it/) \
+- **Location:** Milan, MI, Italy \
+- **Skills:** CFD automation, `OpenFOAM`, `Python`, `ANSA`, `ParaView`, `MPI` cluster admin.
+- **Description:** 
+I led the development of a <ins>CFD software</ins> for
+[PMF](https://www.polimimotorcyclefactory.it/),
+automating the whole CFD process, from the mesh generation 
+(with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
+(involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
+I also configured and administered an `MPI` cluster, performing CFD simulations
+on multiple nodes! \
+[PMF](https://www.polimimotorcyclefactory.it/) is a racing team from
+Politecnico di Milano that designs two racing motorcycles,
+competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
+and in Electric category at [Motostudent championship](https://www.motostudent.com/).
+- **Courses:** *Introduction to CFD pre- & post-processing with ANSA/META*,
+issued by [BETA CAE](https://www.beta-cae.com/).
+
+</div>
+
+## Conferences
+
+<div class="card">
+
+### 10<sup>th</sup> Before Reality Conference
+
+<div class="card-header">
+<div class="card-subtitle">BETA CAE</div>
+<div class="date">Jun 2025</div>
+</div>
+- **Website:** [www.beta-cae.com](https://www.beta-cae.com/conference10_announcement.htm) \
+- **Location:** Science Congress Center, Munich, Germany \
+- **Description:**
+The <ins>CFD software</ins> I led for one year at
+[PMF](https://www.polimimotorcyclefactory.it/)
+was showcased at the <ins>Before Reality Conference</ins>
+\- a major industry event hosted by [BETA CAE](https://www.beta-cae.com/),
+concerning mesh generation and CFD simulations.
+The presentation provided an opportunity to exchange technical insights
+with leading professionals in automotive and motorsport industry.
 
 </div>
 
