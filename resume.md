@@ -24,10 +24,7 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 **Fluid Dynamics** and **CFD/numerical methods**. I have experience in both 
 **Finite Volume** and **Finite Element** simulations and coding in `C++` and
 `Python`. Some of my personal projects are visible at my
-[GitHub page](https://github.com/TheBusyDev). \
-**Language skills:**
-<ins>English</ins> - C1 (TOEIC certificate: score 975/990),
-<ins>Italian</ins> - native speaker.
+[GitHub page](https://github.com/TheBusyDev).
 </div>
 
 <!-- START CARDS CONTAINER -->
@@ -47,16 +44,42 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 - **Location:** Milan, MI, Italy \
 - **Skills:** CFD automation, `OpenFOAM`, `Python`, `ANSA`, `ParaView`, `MPI` cluster admin.
 - **Description:** 
-PMF is a racing team from Politecnico di Milano that designs two racing motorcycles,
-competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
-and in Electric category at [Motostudent championship](https://www.motostudent.com/). \
-My job focused on <ins>automating the CFD process</ins>, from the mesh generation 
+I led the development of a <ins>CFD software</ins> for
+[PMF](https://www.polimimotorcyclefactory.it/),
+automating the whole CFD process, from the mesh generation 
 (with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
 (involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
 I also configured and administered an `MPI` cluster, performing CFD simulations
-on multiple nodes!
+on multiple nodes! \
+[PMF](https://www.polimimotorcyclefactory.it/) is a racing team from
+Politecnico di Milano that designs two racing motorcycles,
+competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
+and in Electric category at [Motostudent championship](https://www.motostudent.com/).
 - **Courses:** *Introduction to CFD pre- & post-processing with ANSA/META*,
 issued by [BETA CAE](https://www.beta-cae.com/).
+
+</div>
+
+## Conferences
+
+<div class="card">
+
+### 10<sup>th</sup> Before Reality Conference
+
+<div class="card-header">
+<div class="card-subtitle">BETA CAE</div>
+<div class="date">Jun 2025</div>
+</div>
+- **Website:** [www.beta-cae.com](https://www.beta-cae.com/conference10_announcement.htm) \
+- **Location:** Science Congress Center, Munich, Germany \
+- **Description:**
+The <ins>CFD software</ins> I led for one year at
+[PMF](https://www.polimimotorcyclefactory.it/)
+was showcased at the <ins>Before Reality Conference</ins>
+\- a major industry event hosted by [BETA CAE](https://www.beta-cae.com/),
+concerning mesh generation and CFD simulations.
+The presentation provided an opportunity to exchange technical insights
+with leading professionals in automotive and motorsport industry.
 
 </div>
 
@@ -70,10 +93,12 @@ issued by [BETA CAE](https://www.beta-cae.com/).
 <div class="card-subtitle">Politecnico di Milano</div>
 <div class="date">Sep 2023 - Mar 2026</div>
 </div>
-- **Website:** [www.polimi.it](https://www.polimi.it/) \
-- **Location:** Milan, MI, Italy \
+- **Website:** [www.polimi.it](https://www.polimi.it/)
+- **Location:** Milan, MI, Italy
 - **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp* 
-element methods. \
+element methods.
+- **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en), [MOX Department](https://mox.polimi.it)
+- **Expected Final Grade:** 110/110
 - **Courses:** Aerodynamics, Compressible Fluid Dynamics, CFD, Turbulence modeling,
 Advanced Programming, Model Order Reduction Techniques (a branch of 
 <ins>Machine Learning</ins>), Airplane performance, Aeroelasticity.
@@ -133,11 +158,14 @@ A list collecting the awards I received in my academic career is presented below
 
 My open-source contributions are all uploaded on my [GitHub page](https://github.com/TheBusyDev). The relevant contributions are presented below.
 
-- [**lifex:**](https://lifex.gitlab.io/) This open-source project is focused on 
+- [**lifex:**](https://lifex.gitlab.io/)
+The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
+be employed for efficient simulations of the <ins>blood flow in arteries</ins>. This 1D model is also designed to interface
+with 0D *windkessel* models and 3D fluid-structure interaction
+heart models, and can be thus employed in <ins>multiscale simulations</ins>.
+[lifex project](https://lifex.gitlab.io/) is focused on
 the development and validation of a software for <ins>cardiovascular applications</ins>,
 co-funded by Politecnico di Milano and European Research Council (ERC).
-The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
-be employed for efficient simulations of the <ins>blood flow in arteries</ins>.
 My contributions will appear in the next release v2.1.0.
 - [**OpenFOAMPost:**](https://github.com/TheBusyDev/OpenFOAMPost) An excellent
 `Python` program to post-process `OpenFOAM` simulations, collecting and analyzing
@@ -170,6 +198,17 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 - **Familiar with:** `C`
 - **Basic knowledge of:** `Java`
 - I use **Fedora Linux** as my daily driver!
+
+</div>
+
+## Miscellaneous
+
+<div class="card">
+
+### Language Skills
+
+- **English:** C1 (TOEIC certificate: score 975/990).
+- **Italian:** native speaker.
 
 </div>
 
