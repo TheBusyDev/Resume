@@ -164,6 +164,7 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 - **Experience in:**
     - Packaging and distributing `Python` projects with `pip`.
     - Development of `C++` software in `Linux` environment.
+    - `Docker` containers.
     - Managing `MPI` clusters.
 - **Version Control & Collaboration:** `git`, `GitHub`, `GitLab`.
 - **Familiar with:** `C`.
