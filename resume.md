@@ -1,5 +1,5 @@
 ---
-pagetitle: "🧑‍💻 Pietro Businaro"
+pagetitle: "Pietro Businaro"
 ---
 
 <!-- My photo :) -->
@@ -22,8 +22,16 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on 
 **Fluid Dynamics** and **CFD/numerical methods**. I have experience in both 
 **Finite Volume** and **Finite Element** simulations and coding in `C++` and
-`Python`. Some of my personal projects are visible at my
-[GitHub page](https://github.com/TheBusyDev).
+`Python`.
+During my Master's Thesis, I had the opportunity to discover and
+explore the field of **CFD for cardiovascular applications**
+within the [lifex project](https://lifex.gitlab.io/)
+(see [Education](#education) section).
+Beyond my academic career, I gained practical CFD
+knowledge with the students' association
+[**Polimi Motorcycle Factory**](https://www.polimimotorcyclefactory.it/) (see [Experience](#experience) section).
+My enthusiasm for programming extends to both academic and personal projects (see
+[Open-source Contributions](#open-source-contributions) section).
 </div>
 
 <!-- START CARDS CONTAINER -->
