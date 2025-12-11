@@ -168,9 +168,16 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
     - Managing `MPI` clusters.
 - **Version Control & Collaboration:** `git`, `GitHub`, `GitLab`.
 - **Familiar with:** `C`.
+- **CFD Software:**
+[`lifex`](https://lifex.gitlab.io/),
+[`OpenFOAM`](https://openfoam.org/),
+[`SU2`](https://su2code.github.io/).
 - **Mesh Generation:**
 [`ANSA`](https://www.beta-cae.com/ansa.htm),
 [`Gmsh`](https://gmsh.info/).
+- **Post-processing Tools:**
+[`pyvista`](https://pyvista.org/),
+[`ParaView`](https://www.paraview.org/) (both GUI and APIs).
 
 </div>
 
