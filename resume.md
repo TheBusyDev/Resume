@@ -30,8 +30,7 @@ within the [lifex project](https://lifex.gitlab.io/)
 Beyond my academic career, I gained practical CFD
 knowledge with the students' association
 [**Polimi Motorcycle Factory**](https://www.polimimotorcyclefactory.it/) (see [Experience](#experience) section).
-My enthusiasm for programming extends to both academic and personal projects (see
-[Open-source Contributions](#open-source-contributions) section).
+My enthusiasm for programming extends to both academic and personal projects - some of them are published on my [GitHub page](https://github.com/TheBusyDev).
 </div>
 
 <!-- START CARDS CONTAINER -->
@@ -146,6 +145,9 @@ will appear in the next release v2.1.0.
 - [**OpenFOAMPost:**](https://github.com/TheBusyDev/OpenFOAMPost) An excellent
 `Python` program to post-process `OpenFOAM` simulations, collecting and analyzing
 data with `pyvista`, `numpy`, `pandas` and `matplotlib`.
+- [**LaplaceSolver:**](https://github.com/TheBusyDev/LaplaceSolver) `C++`
+parallel implementation of a <ins>matrix-free Laplace equation solver</ins>
+for structured grids, exploiting `MPI` and `OpenMP`.
 - **MOR:** A project aiming to perform a Model Order Reduction (MOR) on 2D CFD
 simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 
@@ -205,11 +207,11 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 - **Description:** 
 I led the development of a <ins>CFD software</ins> for
 [PMF](https://www.polimimotorcyclefactory.it/),
-automating the whole CFD process, from the mesh generation 
+automating the entire CFD workflow, from the mesh generation 
 (with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
 (involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
-I also configured and administered an `MPI` cluster, performing CFD simulations
-on multiple nodes! \
+I also configured and administered the `MPI` cluster of
+[PMF](https://www.polimimotorcyclefactory.it/)! \
 [PMF](https://www.polimimotorcyclefactory.it/) is a racing team from
 Politecnico di Milano that designs two racing motorcycles,
 competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
