@@ -50,7 +50,7 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 PMF is a racing team from Politecnico di Milano that designs two racing motorcycles,
 competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
 and in Electric category at [Motostudent championship](https://www.motostudent.com/). \
-My job focused on <ins>automating the CFD process</ins>, from the mesh generation 
+My job focused on <ins>automating the CFD workflow</ins>, from the mesh generation 
 (with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
 (involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
 I also configured and administered an `MPI` cluster, performing CFD simulations
