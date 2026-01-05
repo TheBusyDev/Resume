@@ -142,8 +142,8 @@ My contributions will appear in the next release v2.1.0.
 - [**OpenFOAMPost:**](https://github.com/TheBusyDev/OpenFOAMPost) An excellent
 `Python` program to post-process `OpenFOAM` simulations, collecting and analyzing
 data with `pyvista`, `numpy`, `pandas` and `matplotlib`.
-- **MOR:** A project aiming to perform a Model Order Reduction (MOR) on 2D CFD
-simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
+- **MOR (to appear):** A project aiming to perform a Model Order Reduction (MOR) on 2D CFD
+simulations, exploiting <ins>deep-learning based ROMs</ins>.
 
 </div>
 
