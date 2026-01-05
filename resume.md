@@ -19,9 +19,9 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 
 <!-- Introduction -->
 <div class="intro">
-I am a graduate engineer from Politecnico di Milano (expected graduation at March 
-2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on 
-**Fluid Dynamics** and **CFD/numerical methods**. I have experience in both 
+I am a graduate engineer from Politecnico di Milano (expected graduation: March
+2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on
+**Fluid Dynamics** and **CFD/numerical methods**. I have experience in both
 **Finite Volume** and **Finite Element** simulations and coding in `C++` and
 `Python`. Some of my personal projects are visible at my
 [GitHub page](https://github.com/TheBusyDev). \
@@ -46,11 +46,11 @@ I am a graduate engineer from Politecnico di Milano (expected graduation at Marc
 - **Website:** [www.polimimotorcyclefactory.it](https://www.polimimotorcyclefactory.it/) \
 - **Location:** Milan, MI, Italy \
 - **Skills:** CFD automation, `OpenFOAM`, `Python`, `ANSA`, `ParaView`, `MPI` cluster admin.
-- **Description:** 
+- **Description:**
 PMF is a racing team from Politecnico di Milano that designs two racing motorcycles,
 competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
 and in Electric category at [Motostudent championship](https://www.motostudent.com/). \
-My job focused on <ins>automating the CFD workflow</ins>, from the mesh generation 
+My job focused on <ins>automating the CFD workflow</ins>, from the mesh generation
 (with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
 (involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
 I also configured and administered an `MPI` cluster, performing CFD simulations
@@ -72,10 +72,10 @@ issued by [BETA CAE](https://www.beta-cae.com/).
 </div>
 - **Website:** [www.polimi.it](https://www.polimi.it/) \
 - **Location:** Milan, MI, Italy \
-- **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp* 
+- **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp*
 element methods. \
 - **Courses:** Aerodynamics, Compressible Fluid Dynamics, CFD, Turbulence modeling,
-Advanced Programming, Model Order Reduction Techniques (a branch of 
+Advanced Programming, Model Order Reduction Techniques (a branch of
 <ins>Machine Learning</ins>), Airplane performance, Aeroelasticity.
 
 </div>
@@ -133,7 +133,7 @@ A list collecting the awards I received in my academic career is presented below
 
 My open-source contributions are all uploaded on my [GitHub page](https://github.com/TheBusyDev). The relevant contributions are presented below.
 
-- [**lifex:**](https://lifex.gitlab.io/) This open-source project is focused on 
+- [**lifex:**](https://lifex.gitlab.io/) This open-source project is focused on
 the development and validation of a software for <ins>cardiovascular applications</ins>,
 co-funded by Politecnico di Milano and European Research Council (ERC).
 The work from my Master's Thesis aimed to develop a light-weight 1D solver, to
