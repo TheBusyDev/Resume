@@ -18,9 +18,9 @@ pagetitle: "Pietro Businaro"
 
 <!-- Introduction -->
 <div class="intro">
-I am a graduate engineer from Politecnico di Milano (expected graduation at March 
-2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on 
-**Fluid Dynamics** and **CFD/numerical methods**. I have experience in both 
+I am a graduate engineer from Politecnico di Milano (expected graduation: March
+2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on
+**Fluid Dynamics** and **CFD/numerical methods**. I have experience in both
 **Finite Volume** and **Finite Element** simulations and coding in `C++` and
 `Python`.
 During my Master's Thesis, I had the opportunity to discover and
@@ -28,8 +28,8 @@ explore the field of **CFD for cardiovascular applications**
 within the [lifex project](https://lifex.gitlab.io/)
 (see [Education](#education) section).
 Beyond my academic career, I gained practical CFD
-knowledge with the students' association
-[**Polimi Motorcycle Factory**](https://www.polimimotorcyclefactory.it/) (see [Experience](#experience) section).
+knowledge as a member of the student association
+[**Polimi Motorcycle Factory**](https://www.polimimotorcyclefactory.it/) (**PMF**, see [Experience](#experience) section).
 My enthusiasm for programming extends to both academic and personal projects - some of them are published on my [GitHub page](https://github.com/TheBusyDev).
 </div>
 
@@ -49,8 +49,8 @@ My enthusiasm for programming extends to both academic and personal projects - s
 - **Website:** [www.polimi.it](https://www.polimi.it/)
 - **Location:** Milan, MI, Italy
 - **Expected Final Grade:** 110/110
-- **Grade Average:** 29/30
-- **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp* 
+- **Grade Average:** 29.0/30
+- **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp*
 element methods.
 - **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en),
 [MOX Department](https://mox.polimi.it)
@@ -72,10 +72,11 @@ The implementation has been written in `C++17`, exploiting
 [`deal.ii`](https://dealii.org/) finite element library,
 and has been carried out within the
 [lifex project](https://lifex.gitlab.io/).
-- **Courses:** Aerodynamics, Compressible Fluid Dynamics, CFD, Turbulence modeling,
-Advanced Programming (`C++` for <ins>scientific computing</ins>),
-Model Order Reduction Techniques (a branch of 
-<ins>Machine Learning</ins>), Airplane performance, Aeroelasticity.
+- **Courses:** Aerodynamics, Compressible Fluid Dynamics, CFD, Turbulence Modeling,
+Numerical Modeling for PDEs,
+Advanced Programming (i.e. `C++` for <ins>scientific computing</ins>),
+Model Order Reduction Techniques (i.e. a branch of
+<ins>Machine Learning</ins>), Airplane Performance, Aeroelasticity.
 
 </div>
 
@@ -91,7 +92,7 @@ Model Order Reduction Techniques (a branch of
 - **Location:** Milan, MI, Italy
 - **Final Grade:** 110/110 cum laude
 - **Grade Average:** 29.4/30
-- **Courses:** Fundamentals of Numerical Analysis, Fluid Dynamics, Structural
+- **Courses:** Applied Numerical Analysis, Fluid Dynamics, Structural
 Mechanics, Propulsion.
 
 </div>
@@ -148,8 +149,8 @@ data with `pyvista`, `numpy`, `pandas` and `matplotlib`.
 - [**LaplaceSolver:**](https://github.com/TheBusyDev/LaplaceSolver) `C++`
 parallel implementation of a <ins>matrix-free Laplace equation solver</ins>
 for structured grids, exploiting `MPI` and `OpenMP`.
-- **MOR:** A project aiming to perform a Model Order Reduction (MOR) on 2D CFD
-simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
+- **MOR (to appear):** A project aiming to perform a Model Order Reduction
+(MOR) on 2D CFD simulations, exploiting <ins>Deep-learning-based ROMs</ins>.
 
 </div>
 
@@ -204,10 +205,10 @@ simulations, exploiting <ins>Deep-learning-based ROMs</ins> (to appear).
 - **Website:** [www.polimimotorcyclefactory.it](https://www.polimimotorcyclefactory.it/) \
 - **Location:** Milan, MI, Italy \
 - **Skills:** CFD automation, `OpenFOAM`, `Python`, `ANSA`, `ParaView`, `MPI` cluster admin.
-- **Description:** 
-I led the development of a <ins>CFD software</ins> for
+- **Description:**
+I led the development of the <ins>CFD software</ins> of
 [PMF](https://www.polimimotorcyclefactory.it/),
-automating the entire CFD workflow, from the mesh generation 
+automating the entire CFD workflow, from the mesh generation
 (with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
 (involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
 I also configured and administered the `MPI` cluster of
