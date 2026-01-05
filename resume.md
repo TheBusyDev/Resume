@@ -52,9 +52,9 @@ My enthusiasm for programming extends to both academic and personal projects - s
 - **Grade Average:** 29.0/30
 - **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp*
 element methods.
-- **Thesis Advisor:** [Prof. Luca Dede'](https://scholar.google.com/citations?user=ymR4tW4AAAAJ&hl=en),
+- **Thesis Advisor:** [Prof. Luca Dede'](https://orcid.org/0000-0002-6558-8277),
 [MOX Department](https://mox.polimi.it)
-- **Thesis Co-advisor:** [PhD. Michele Bucelli](https://scholar.google.com/citations?user=yGeA5wQAAAAJ&hl=it)
+- **Thesis Co-advisor:** [PhD. Michele Bucelli](https://orcid.org/0000-0003-3089-9734)
 - **Keywords:**
 haemodynamics,
 multiscale modeling of the cardiovascular system,
