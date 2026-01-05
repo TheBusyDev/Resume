@@ -150,7 +150,7 @@ data with `pyvista`, `numpy`, `pandas` and `matplotlib`.
 parallel implementation of a <ins>matrix-free Laplace equation solver</ins>
 for structured grids, exploiting `MPI` and `OpenMP`.
 - **MOR (to appear):** A project aiming to perform a Model Order Reduction
-(MOR) on 2D CFD simulations, exploiting <ins>Deep-learning-based ROMs</ins>.
+(MOR) on 2D CFD simulations, exploiting <ins>deep-learning based ROMs</ins>.
 
 </div>
 
