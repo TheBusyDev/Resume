@@ -48,13 +48,12 @@ My enthusiasm for programming extends to both academic and personal projects - s
 </div>
 - **Website:** [www.polimi.it](https://www.polimi.it/)
 - **Location:** Milan, MI, Italy
-- **Expected Final Grade:** 110/110
-- **Grade Average:** 29.0/30
-- **Thesis:** 1D haemodynamics modeling with discontinuous Galerkin spectral/*hp*
-element methods.
+- **Expected Final Grade:** 110/110 cum laude
+- **Grade Average:** 29.1/30
+- **Thesis:** High-order discontinuous Galerkin methods for 1D vascular flows
 - **Thesis Advisor:** [Prof. Luca Dede'](https://orcid.org/0000-0002-6558-8277),
 [MOX Department](https://mox.polimi.it)
-- **Thesis Co-advisor:** [PhD. Michele Bucelli](https://orcid.org/0000-0003-3089-9734)
+- **Thesis Co-advisor:** [Dr. Michele Bucelli](https://orcid.org/0000-0003-3089-9734)
 - **Keywords:**
 haemodynamics,
 multiscale modeling of the cardiovascular system,
