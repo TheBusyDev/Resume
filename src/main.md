@@ -7,27 +7,40 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 <h1 class="name">Pietro Businaro</h1>
 <h1 class="easter-egg-message">...aka TheBusyDev in disguise :)</h1>
 
-### MSc. in Aeronautical Engineering
+### MSc. in Aeronautical Engineering, PhD student in Mathematics
 
 <!-- My contacts -->
 <div class="contact-info">
+
 [pietro.businaro@outlook.com](maito:pietro.businaro@outlook.com) •
-[linkedin.com/in/pietro-businaro](https://www.linkedin.com/in/pietro-businaro) •
+[LinkedIn](https://www.linkedin.com/in/pietro-businaro) •
 [github.com/TheBusyDev](https://github.com/TheBusyDev) •
 [Website](https://thebusydev.github.io/)
+
 </div>
 
 <!-- Introduction -->
 <div class="intro">
-I am a graduate engineer from Politecnico di Milano (expected graduation: March
-2026). I pursued a Master's Degree in Aeronautical Engineering, focusing on
-**Fluid Dynamics** and **CFD/numerical methods**. I have experience in both
-**Finite Volume** and **Finite Element** simulations and coding in `C++` and
-`Python`. Some of my personal projects are visible at my
-[GitHub page](https://github.com/TheBusyDev). \
+
+I am an **Aeronautical Engineer** from *Politecnico di Milano* and a
+**PhD student** in Mathematics at *Gran Sasso Science Institute*.
+My studies are focused on **Fluid Dynamics** and **CFD/numerical methods**.
+I have experience in both **Finite Volume** and **Finite Element** simulations
+and programming in `C++` and `Python`.
+During my Master's Thesis, I had the opportunity to discover and
+explore the field of **CFD for cardiovascular applications**
+within the [lifex project](https://lifex.gitlab.io/)
+(see [Education](#education) section).
+Beyond my academic career, I gained practical CFD
+knowledge as a member of the student association
+[**Polimi Motorcycle Factory**](https://www.polimimotorcyclefactory.it/) (**PMF**, see [Experience](#experience) section).
+My enthusiasm for *scientific computing*, *programming*, and *Linux/open source*
+extends across both academic and personal projects, several of which are
+featured on my [GitHub page](https://github.com/TheBusyDev). \
 **Language skills:**
-<ins>English</ins> - C1 (TOEIC certificate: score 975/990),
-<ins>Italian</ins> - native speaker.
+<u>English</u> - C1 (TOEIC certificate: score 975/990),
+<u>Italian</u> - native speaker.
+
 </div>
 
 <!-- START CARDS CONTAINER -->
@@ -165,7 +178,7 @@ simulations, exploiting <ins>deep-learning based ROMs</ins>.
 [`fenics`](https://fenicsproject.org/).
 - **Experience in:**
   - Packaging and distributing `Python` projects with `pip`.
-  - Development of `C++` software in `Linux` environment.
+  - Development of `C++` software under `Linux` environment.
   - Managing `MPI` clusters.
 - **Familiar with:** `C`
 - **Basic knowledge of:** `Java`
