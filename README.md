@@ -43,11 +43,11 @@ cd Resume
 🧑‍💻 This step relies on `pandoc`. You can simply call:
 
 ```bash
-./generate.sh
+./scripts/generate.sh
 ```
 
 🚀 Once the `HTML` file is ready, you can deploy it using GitHub pages as follows:
 
 ```bash
-./deploy.sh
+./scripts/deploy.sh
 ```

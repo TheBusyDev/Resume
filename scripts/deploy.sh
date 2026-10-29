@@ -2,9 +2,10 @@
 # Deploy into GitHub pages.
 
 set -euo pipefail
+cd -- "$(dirname -- "$0")"/..
 
-./generate.sh || {
-  echo "An error occurred while generate your awesome résumé..."
+./scripts/generate.sh || {
+  echo "An error occurred while generating your awesome résumé..."
   exit 1
 }
 

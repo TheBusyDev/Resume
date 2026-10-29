@@ -3,7 +3,7 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 ---
 
 <!-- My photo :) -->
-<img src="me.jpg" alt="Pietro Businaro" class="photo-container">
+<img src="assets/me.jpg" alt="Pietro Businaro" class="photo-container">
 <h1 class="name">Pietro Businaro</h1>
 <h1 class="easter-egg-message">...aka TheBusyDev in disguise :)</h1>
 
@@ -164,9 +164,9 @@ simulations, exploiting <ins>deep-learning based ROMs</ins>.
 [`gmsh`](https://gmsh.info/),
 [`fenics`](https://fenicsproject.org/).
 - **Experience in:**
-    - Packaging and distributing `Python` projects with `pip`.
-    - Development of `C++` software in `Linux` environment.
-    - Managing `MPI` clusters.
+  - Packaging and distributing `Python` projects with `pip`.
+  - Development of `C++` software in `Linux` environment.
+  - Managing `MPI` clusters.
 - **Familiar with:** `C`
 - **Basic knowledge of:** `Java`
 - I use **Fedora Linux** as my daily driver!

@@ -2,19 +2,20 @@
 # Generate resume from Markdown+CSS files.
 
 set -euo pipefail
+cd -- "$(dirname -- "$0")"/..
 
-pandoc resume.md \
+pandoc src/main.md \
        -o Pietro_Businaro_resume.pdf \
-       --css=style.css \
+       --css=src/style.css \
        --pdf-engine=weasyprint
 
-pandoc resume.md \
+pandoc src/main.md \
        -o html/index.html \
-       --css=style.css \
+       --css=src/style.css \
        --standalone
 
 # Copy content into submodule
-cp style.css html/.
-cp me.jpg html/.
+cp src/style.css html/src/.
+cp assets/me.jpg html/assets/.
 
 exit 0
