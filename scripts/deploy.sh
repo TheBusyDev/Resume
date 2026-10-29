@@ -9,7 +9,7 @@ cd -- "$(dirname -- "$0")"/..
   exit 1
 }
 
-cd html/
+cd build/
 
 git switch main \
   && git pull \
@@ -21,7 +21,7 @@ git switch main \
   }
 
 cd ..
-git add html
+git add build
 git commit -m "Update git submodule"
 
 exit 0

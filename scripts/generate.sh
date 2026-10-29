@@ -10,12 +10,12 @@ pandoc src/main.md \
        --pdf-engine=weasyprint
 
 pandoc src/main.md \
-       -o html/index.html \
+       -o build/index.html \
        --css=src/style.css \
        --standalone
 
-# Copy content into submodule
-cp src/style.css html/src/.
-cp assets/me.jpg html/assets/.
+# Copy content into submodule.
+cp src/style.css build/src/.
+cp assets/me.jpg build/assets/.
 
 exit 0
