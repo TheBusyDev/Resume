@@ -1,7 +1,8 @@
 # TheBusyDev's official résumé (beware of imitations)
 
 This project aims to simplify the résumé/CV update, while publishing it with
-GitHub pages. It is written in `Markdown` + `CSS` and relies on `pandoc`.
+GitHub pages. It is written in `Markdown` (see [`src/main.md`](./src/main.md))
+\+ `CSS` (see [`src/style.css`](./src/style.css)) and relies on `pandoc`.
 My résumé is actually visible at <https://thebusydev.github.io/> 🤓
 
 ## Git submodules setup
