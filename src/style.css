@@ -55,7 +55,8 @@ body {
 }
 
 /* Name */
-.name {
+.name,
+.easter-egg-message {
     font-size: 26pt;
     font-weight: 700;
     text-align: left;
