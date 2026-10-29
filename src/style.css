@@ -3,13 +3,13 @@
     /* Primary accent color */
     --accent-color: #ff6b6bff;
     --bg-accent-color: #ff6b6b18;
-    
+
     /* Text colors */
     --text-primary: #333;
     --text-secondary: #555;
     --text-light: #999;
     --text-lighter: #ccc;
-    
+
     /* Heading colors */
     --heading: #2d3748;
 
@@ -20,14 +20,14 @@
 
 /* Page setup */
 @page {
-    margin: 0.1cm 0.4cm;
+    margin: 0.5cm 1cm;
     size: A4;
 }
 
 body {
     font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
-    font-size: 9pt;
-    line-height: 1.45;
+    font-size: 10pt;
+    line-height: 1.5;
     text-align: justify;
     color: var(--text-primary);
     position: relative;
@@ -55,7 +55,7 @@ body {
 }
 
 /* Name */
-.name, .easter-egg-message {
+.name {
     font-size: 26pt;
     font-weight: 700;
     text-align: left;
@@ -68,11 +68,11 @@ body {
     display: none;
 }
 
-.photo-container:hover ~ .easter-egg-message {
+.photo-container:hover~.easter-egg-message {
     display: block;
 }
 
-.photo-container:hover ~ .name {
+.photo-container:hover~.name {
     display: none;
 }
 
@@ -97,7 +97,6 @@ body {
 
 /* Introduction paragraph */
 .intro {
-    font-size: 9.5pt;
     color: var(--text-secondary);
     margin: 0;
 }
@@ -110,7 +109,8 @@ body {
 
 @media screen {
     .cards-container {
-        column-count: 1; /* Use one column on HTML */
+        column-count: 1;
+        /* Use one column on HTML */
         column-gap: 0;
     }
 }
@@ -128,14 +128,19 @@ h2 {
 }
 
 /* Card container */
-.card {
-    background: 
+.card,
+.card-no-break {
+    background:
         linear-gradient(to right, var(--bg-accent-color) 0px, transparent 100%);
     border: none;
     padding: 0.9em 1.2em;
     border-radius: 8px;
     margin-bottom: 0.7em;
-    break-inside: avoid; /* Prevent cards from breaking across columns */
+}
+
+.card-no-break {
+    /* Prevent cards from breaking across columns */
+    break-inside: avoid;
 }
 
 /* Card title */
@@ -173,26 +178,30 @@ h3 {
 }
 
 /* Card description */
-.card p {
+.card p,
+.card-no-break p {
     color: var(--text-secondary);
     margin: 0 0 0.6em 0;
 }
 
 /* Skills/Tech list */
-.card ul {
+.card ul,
+.card-no-break ul {
     list-style: none;
     padding-left: 0;
     margin: 0;
 }
 
-.card ul li {
+.card ul li,
+.card-no-break ul li {
     color: var(--text-secondary);
     margin-bottom: 0.1em;
     position: relative;
     padding-left: 1.2em;
 }
 
-.card ul li:before {
+.card ul li:before,
+.card-no-break ul li::before {
     content: "★";
     color: var(--accent-color);
     position: absolute;
