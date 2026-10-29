@@ -241,17 +241,17 @@ The relevant contributions are presented below.
 - **Location:** Milan, MI, Italy \
 - **Skills:** CFD automation, `OpenFOAM`, `Python`, `ANSA`, `ParaView`, `MPI` cluster admin.
 - **Description:**
-  I led the development of the <u>CFD software</u> of
-  [PMF](https://www.polimimotorcyclefactory.it/),
+  [PMF](https://www.polimimotorcyclefactory.it/) is the motorcycle racing team
+  of Politecnico di Milano, which designs two racing prototypes, competing in
+  [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
+  and in Electric category of
+  [Motostudent championship](https://www.motostudent.com/).
+  Here, I led the development of the <u>CFD software</u>,
   automating the entire CFD workflow, from the mesh generation
   (with `ANSA`) throughout the CFD simulation (using `OpenFOAM`) and the post-processing
   (involving data analysis with `ParaView`, `numpy`, `pandas` and `matplotlib`).
   I also configured and administered the `MPI` cluster of
   [PMF](https://www.polimimotorcyclefactory.it/)! \
-  [PMF](https://www.polimimotorcyclefactory.it/) is a racing team from
-  Politecnico di Milano that designs two racing motorcycles,
-  competing in [Moto3 championship](https://www.civ.tv/pilota/specialita-piloti/moto3/)
-  and in Electric category at [Motostudent championship](https://www.motostudent.com/).
 - **Courses:** *Introduction to CFD pre- & post-processing with ANSA/META*,
   issued by [BETA CAE](https://www.beta-cae.com/).
 
