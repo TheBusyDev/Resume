@@ -10,9 +10,8 @@ The first time you clone this repo, you have to set up also the
 `git submodules`, i.e.
 
 ```bash
-git clone git@github.com:TheBusyDev/Resume.git
+git clone --recurse-submodules git@github.com:TheBusyDev/Resume.git
 cd Resume
-git submodule init && git submodule update
 ```
 
 ## Dependencies
