@@ -208,7 +208,7 @@ The relevant contributions are presented below.
   [`fenics`](https://fenicsproject.org/).
 - **Experience in:**
   - Packaging and distributing `Python` projects with `pip`.
-  - Development of `C++` software in `Linux` environment.
+  - Development of `C++` software under `Linux` environment.
   - `docker`/`podman` containers.
   - Managing `MPI` clusters.
 - **Version Control & Collaboration:** `git`, `GitHub`, `GitLab`.
