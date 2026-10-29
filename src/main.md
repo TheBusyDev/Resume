@@ -111,7 +111,7 @@ featured on my [GitHub page](https://github.com/TheBusyDev). \
 
 <div class="card">
 
-### BSc. in Aerospace Engineering
+### BSc in Aerospace Engineering
 
 <div class="card-header">
 <div class="card-subtitle">Politecnico di Milano</div>
