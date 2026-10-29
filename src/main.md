@@ -7,7 +7,7 @@ pagetitle: "🧑‍💻 Pietro Businaro"
 <h1 class="name">Pietro Businaro</h1>
 <h1 class="easter-egg-message">...aka TheBusyDev in disguise :)</h1>
 
-### MSc. in Aeronautical Engineering, PhD student in Mathematics
+### MSc in Aeronautical Engineering, PhD student in Mathematics
 
 <!-- My contacts -->
 <div class="contact-info">
@@ -69,7 +69,7 @@ featured on my [GitHub page](https://github.com/TheBusyDev). \
 
 <div class="card">
 
-### MSc. in Aeronautical Engineering
+### MSc in Aeronautical Engineering
 
 <div class="card-header">
 <div class="card-subtitle">Politecnico di Milano</div>
