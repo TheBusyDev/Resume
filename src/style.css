@@ -99,6 +99,7 @@ body {
 .intro {
     color: var(--text-secondary);
     margin: 0;
+    margin-bottom: 1.75em;
 }
 
 /* Colum layout for cards container */
@@ -109,8 +110,8 @@ body {
 
 @media screen {
     .cards-container {
-        column-count: 1;
         /* Use one column on HTML */
+        column-count: 1;
         column-gap: 0;
     }
 }
