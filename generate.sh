@@ -1,6 +1,8 @@
 #!/bin/bash
 # Generate resume from Markdown+CSS files.
 
+set -euo pipefail
+
 pandoc resume.md \
        -o Pietro_Businaro_resume.pdf \
        --css=style.css \
