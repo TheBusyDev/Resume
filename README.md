@@ -32,8 +32,7 @@ cd Resume
   ```
 
   This is required only the first time you clone the repo.
-  In order to activate an already existing virtual environment, you can simply
-  execute:
+  In order to activate an already existing virtual environment, you can run:
 
   ```bash
   source .venv/bin/activate
