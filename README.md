@@ -41,10 +41,10 @@ cd Resume
 
 ## Generate `PDF` and `HTML` files from `Markdown`
 
-🧑‍💻 This step relies on `pandoc`. You can simply call:
+🧑‍💻 This step relies on `pandoc`. You can simply execute:
 
 ```bash
-./scripts/generate.sh
+./scripts/build.sh
 ```
 
 🚀 Once the `HTML` file is ready, you can deploy it using GitHub pages as follows:

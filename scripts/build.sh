@@ -1,5 +1,5 @@
 #!/bin/bash
-# Generate resume from Markdown+CSS files.
+# Build resume from Markdown+CSS files.
 
 set -euo pipefail
 cd -- "$(dirname -- "$0")"/..

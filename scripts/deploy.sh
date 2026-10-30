@@ -4,7 +4,7 @@
 set -euo pipefail
 cd -- "$(dirname -- "$0")"/..
 
-./scripts/generate.sh || {
+./scripts/build.sh || {
   echo "An error occurred while generating your awesome résumé..."
   exit 1
 }
